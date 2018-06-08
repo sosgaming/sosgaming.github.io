@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 10%;
+    background-color: #888888;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+.banner{
+	margin:0px auto;
+	padding:5px;
+	height:0%;
+	width:100%;
+	overflow:hidden;
+	border:solid;
+	background-color:d8d8d8;
+	border-color:81daf5;
+	border-width:0px 0px 10px 0px;
+			
+}
+body{
+				margin:0;
+				padding:0px,0px,0px,0px;
+				height:100%;
+				width:100%;
+				background-color:888888;
+				overflow:scroll;
+			}
+
+
+<ul>
+<li class='active'><a href='index.html'>Home</a></li>
+<li><a href='info.html'>Info</a></li>
+<li><a href='test.html'>Test</a></li>
+<li><a href='test2.html'>Test2</a></li>
+<li><a href='test3.html'>Test3</a></li>
+</ul>
+
+
+</style>
+</head>
+<body>
+
+
+
+
+
+</body>
+</html>

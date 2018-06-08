@@ -1,0 +1,22 @@
+<html>
+<link href="css/style.css" rel="stylesheet" type="text/css" </link>
+	<ul>
+		<li class='active'><a href='index.html'>Home</a></li>
+		<li><a href='info.html'>Info</a></li>
+		<li><a href='test.html'>Test</a></li>
+		<li><a href='test2.html'>Test2</a></li>
+		<li><a href='test3.html'>Test3</a></li>
+	</ul>
+<head>
+	<title>Tails' Web Page</title>
+</head>
+
+<body>
+<div style="margin-left:12%;padding:1px 16px;height:1000px;">
+
+<form name="signupform" method="post" action="<?php echo basename(__FILE__); ?>" id="signupform"><input type="hidden" name="action" value="signup"><table cellspacing="4" cellpadding="0" style="background-color:#888888;border-style:solid;border-color:#000000;border-width:3px;color:#000000;font-family:Verdana;font-size:11px;width:231px;height:220px;"><tr>   <td colspan="2" align="center" style="height:17px;background-color:#000000;color:#00FF00;">Register here</td></tr><tr>   <td align="right" style="height:22px">Full Name:</td>   <td align="left"><input name="fullname" type="text" id="fullname" style="width:100px;height:18px;background-color:#FFFFFF;border-style:solid;border-color:#000000;border-width:2px;color:#000000;font-family:Verdana;font-size:11px;"></td></tr><tr>   <td align="right" style="height:22px">User Name:</td>   <td align="left"><input name="username" type="text" id="username" style="width:100px;height:18px;background-color:#FFFFFF;border-style:solid;border-color:#000000;border-width:2px;color:#000000;font-family:Verdana;font-size:11px;"></td></tr><tr>   <td align="right" style="height:22px;">Password:</td>   <td align="left"><input name="password" type="password" id="password" style="width:100px;height:18px;background-color:#FFFFFF;border-style:solid;border-color:#000000;border-width:2px;color:#000000;font-family:Verdana;font-size:11px;"></td></tr><tr>   <td align="right" style="height:22px">Confirm Password:</td>   <td align="left"><input name="confirmpassword" type="password" id="confirmpassword" style="width:100px;height:18px;background-color:#FFFFFF;border-style:solid;border-color:#000000;border-width:2px;color:#000000;font-family:Verdana;font-size:11px;"></td></tr><tr>   <td align="right" style="height:22px">E-mail:</td>   <td align="left"><input name="email" type="text" id="email" style="width:100px;height:18px;background-color:#FFFFFF;border-style:solid;border-color:#000000;border-width:2px;color:#000000;font-family:Verdana;font-size:11px;"></td></tr><tr>   <td colspan="2"><?php echo $error_message; ?></td></tr><tr>   <td>&nbsp;</td><td align="left" valign="bottom"><input type="submit" name="signup" value="Register" id="signup" style="color:#000000;background-color:#888888;border-style:solid;border-color:#00FF00;border-width:2px;font-family:Verdana;font-size:11px;width:90px;height:20px;"></td></tr></table></form>
+
+
+</div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: http://tailsgaming.com/sitemap.xml
+Sitemap: http://tailsgaming.com/sitemap.xml.gz
+Sitemap: http://tailsgaming.com/sitemap.html
+Sitemap: http://tailsgaming.com/urllist.txt
+Sitemap: http://tailsgaming.com/ror.xml

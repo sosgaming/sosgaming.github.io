@@ -1,0 +1,36 @@
+[27-Feb-2016 21:50:59 America/Chicago] PHP Warning:  include(comments.html): failed to open stream: No such file or directory in /home3/hoppenol23/public_html/tailsgaming.com/test.php on line 199
+[27-Feb-2016 21:50:59 America/Chicago] PHP Warning:  include(comments.html): failed to open stream: No such file or directory in /home3/hoppenol23/public_html/tailsgaming.com/test.php on line 199
+[27-Feb-2016 21:50:59 America/Chicago] PHP Warning:  include(): Failed opening 'comments.html' for inclusion (include_path='.:/opt/php55/lib/php') in /home3/hoppenol23/public_html/tailsgaming.com/test.php on line 199
+[27-Feb-2016 22:10:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'color' (T_STRING) in /home3/hoppenol23/public_html/tailsgaming.com/test.php on line 7
+[27-Feb-2016 22:14:09 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home3/hoppenol23/public_html/tailsgaming.com/test.php on line 7
+[27-Feb-2016 22:14:42 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home3/hoppenol23/public_html/tailsgaming.com/test.php on line 7
+[27-Feb-2016 22:22:26 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home3/hoppenol23/public_html/tailsgaming.com/test.php on line 7
+[27-Feb-2016 22:22:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'color' (T_STRING) in /home3/hoppenol23/public_html/tailsgaming.com/test.php on line 7
+[28-Feb-2016 00:17:00 America/Chicago] PHP Warning:  wordwrap() expects parameter 2 to be long, string given in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 7
+[28-Feb-2016 00:17:09 America/Chicago] PHP Warning:  wordwrap() expects parameter 2 to be long, string given in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 7
+[28-Feb-2016 00:17:14 America/Chicago] PHP Warning:  wordwrap() expects parameter 2 to be long, string given in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 7
+[28-Feb-2016 00:18:06 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 5
+[28-Feb-2016 00:18:47 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 5
+[28-Feb-2016 00:19:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$content' (T_VARIABLE) in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 6
+[28-Feb-2016 00:20:15 America/Chicago] PHP Warning:  wordwrap() expects parameter 2 to be long, string given in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 7
+[28-Feb-2016 00:20:20 America/Chicago] PHP Warning:  wordwrap() expects parameter 2 to be long, string given in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 7
+[28-Feb-2016 00:23:02 America/Chicago] PHP Warning:  wordwrap() expects parameter 2 to be long, string given in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 7
+[28-Feb-2016 00:23:53 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 5
+[28-Feb-2016 00:24:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'wordwrap' (T_STRING) in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 5
+[28-Feb-2016 00:24:37 America/Chicago] PHP Warning:  wordwrap() expects parameter 2 to be long, string given in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 5
+[28-Feb-2016 00:24:37 America/Chicago] PHP Warning:  wordwrap() expects parameter 2 to be long, string given in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 7
+[28-Feb-2016 00:25:08 America/Chicago] PHP Warning:  wordwrap() expects parameter 2 to be long, string given in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 5
+[28-Feb-2016 00:25:08 America/Chicago] PHP Warning:  wordwrap() expects parameter 2 to be long, string given in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 7
+[28-Feb-2016 00:25:26 America/Chicago] PHP Warning:  wordwrap() expects parameter 2 to be long, string given in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 5
+[28-Feb-2016 00:25:31 America/Chicago] PHP Warning:  wordwrap() expects parameter 2 to be long, string given in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 5
+[28-Feb-2016 00:25:56 America/Chicago] PHP Warning:  wordwrap() expects parameter 2 to be long, string given in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 5
+[28-Feb-2016 00:26:02 America/Chicago] PHP Warning:  wordwrap() expects parameter 2 to be long, string given in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 5
+[28-Feb-2016 00:26:15 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 5
+[28-Feb-2016 00:56:51 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home3/hoppenol23/public_html/tailsgaming.com/contact.php on line 3
+[29-Feb-2016 14:17:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home3/hoppenol23/public_html/tailsgaming.com/test.php on line 23
+[29-Feb-2016 14:19:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home3/hoppenol23/public_html/tailsgaming.com/test.php on line 23
+[29-Feb-2016 14:19:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home3/hoppenol23/public_html/tailsgaming.com/test.php on line 23
+[29-Feb-2016 14:19:17 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home3/hoppenol23/public_html/tailsgaming.com/test.php on line 23
+[29-Feb-2016 14:19:19 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home3/hoppenol23/public_html/tailsgaming.com/test.php on line 23
+[29-Feb-2016 14:19:19 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home3/hoppenol23/public_html/tailsgaming.com/test.php on line 23
+[29-Feb-2016 14:19:21 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home3/hoppenol23/public_html/tailsgaming.com/test.php on line 23
