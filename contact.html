@@ -1,15 +1,3 @@
-<?php
-if ($_POST){
-
-$name = $_POST['name'];
-$content = $_POST['commentContent'];
-$handle = fopen("comments.html","a");
-fwrite ($handle,"<b><font color='green'>  $name  </font></b></br><font color='green'>  $content  </font></br><br></br>");
-fclose ($handle);}
-
-?>
-
-
 <!DOCTYPE html> 
 
 <html>
@@ -18,7 +6,7 @@ fclose ($handle);}
 
 <head>
 
-  <title>Tails Contact</title>
+  <title>Tails Gaming</title>
 
   <meta name="description" content="website description" />
 
@@ -58,18 +46,33 @@ fclose ($handle);}
 	    <div id="menubar">
 
           <ul id="nav">
-
-            <li><a href="index.html">Home</a></li>
+		  
+			<li><a href="index.html">Home</a></li>
 
             <li><a href="about.html">About</a></li>
 
-            <li><a href="highlight.html">highlight</a></li>
+            <li><a href="highlight.html">Highlight</a></li>
 
-            <li><a href="downloads.html">downloads</a></li>
+            <li><a href="downloads.html">Downloads</a></li>
 
-            <li class="current"><a href="contact.php">Contact</a></li>
+            <li class="current"><a href="contact.html">Contact</a></li>
 			
 			<li><a href="donate.html">Donate</a></li>
+			
+			<div class="navbar">		
+			<div class="dropdown">
+				<button class="dropbtn">Squad
+					<i class="fa fa-caret-down"></i>
+		</button>
+			<div class="dropdown-content">
+					<a href="kyros.html">Kyr0s</a>
+					<a href="zeek.html">Zeek</a>
+					<a href="steak.html">Steak</a>
+					<a href="kade.html">Kade</a>
+
+			</div>
+			</div> 
+	</div>
 
           </ul>
 
@@ -105,9 +108,9 @@ fclose ($handle);}
 
             <h2>Latest Update</h2>
 
-            <h3>February 2016</h3>
+            <h3>June 2018</h3>
 
-            <p>Have been working on YouTube channel</p>         
+            <p>Have been working on Twitch channel</p>         
 
 		  </div><!--close sidebar_item--> 
 
@@ -117,9 +120,9 @@ fclose ($handle);}
 
           <div class="sidebar_item">
 
-            <h3>February 2016</h3>
+            <h3>June 2018</h3>
 
-            <p>Made this website</p>         
+            <p>Resetup this website now on github</p>         
 
 		  </div><!--close sidebar_item--> 
 
@@ -131,7 +134,7 @@ fclose ($handle);}
 
             <h2>Contact</h2>
 
-            <p>Email: tails@tailsgaming.com</p>
+            <p>Email: tailss773@gmail.com</p>
 
             <p> </p>
 
@@ -143,9 +146,9 @@ fclose ($handle);}
 
           <div class="sidebar_item">
 
-            <h2>Teamspeak 3 info</h2>
+            <h2>Tails Gaming Discord info</h2>
 
-            <p>Ip: stateofchaos.us</p>
+            <a href="https://discord.gg/5XB4nxX" target="_blank">Discord</a>
 
             <p> </p>
 
@@ -176,17 +179,7 @@ fclose ($handle);}
         <div class="content_item">
 
 			<h1>Welcome to the contact page</h1>
-			<p>Please leava a message</p>
-		
-			<form action="" method="POST" action="index.html">
-			<p style="color:#00FF00">Name:</p> <input type = "text" name = "name"></br>
-			<p style="color:#00FF00">Message:</p> <textarea rows ="10" cols ="30" name="commentContent"></textarea></br>
-			<div class="button_small">
-		      <input type = "submit" value = "post!"></input></br>
-			</div><!--close button_small-->
-			</form>
-			<br></br>
-			<?php include "comments.html"; ?> 
+			<p>Please Contact Me on Discord <br> Tails#1337<br>Or Email <br>Tailss773@gmail.com</p>
 
 	  
 		  <div class="content_container">
@@ -217,8 +210,7 @@ fclose ($handle);}
 
 	  <a href="index.html">Home</a> | <a href="about.html">About</a> | <a href="highlight.html">Highlight</a> | <a href="downloads.html">Downloads</a> | <a href="contact.php">Contact</a> | <a href="donate.html">Donate</a><br/><br/>
 
-	  <a href="https://www.youtube.com/channel/UCF4PmC4ugV3jMcir4NrX9rA" target="_blank">YouTube</a> |  <a href="http://www.twitch.tv/Tailss77" target="_blank">Twitch</a>  |  My Sponsors <a href="http://constructpc.com/" target="_blank">Website</a>
-
+	  <a href="https://www.youtube.com/channel/UCF4PmC4ugV3jMcir4NrX9rA" target="_blank">YouTube</a> |  <a href="http://www.twitch.tv/Tailss77" target="_blank">Twitch</a>  |   <a href="https://twitter.com/Tailsm7?lang=en" target="_blank">Twitter</a>
     </footer>
 
 	
