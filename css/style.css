@@ -58,8 +58,8 @@ h5, h6
   padding-bottom: 15px;}
   
 span
-{ color: #FFD700;
-  text-shadow: 0px 1px 0px #FFF;}
+{ color: #000000;
+  text-shadow: 0px 2px 0px #0362d0;}
 
 a, a:hover
 { color: #FFF;
@@ -95,9 +95,9 @@ header
 { height: 120px;
   width: 940px;
   background: #0A8F08;
-  background: -moz-linear-gradient(#000000, #0A8F08);
-  background: -o-linear-gradient(#000000, #0A8F08);
-  background: -webkit-linear-gradient(#000000, #0A8F08);
+  background: -moz-linear-gradient(#00318a, #0362d0);
+  background: -o-linear-gradient(#00318a, #0362d0);
+  background: -webkit-linear-gradient(#00318a, #0362d0);
   border-radius: 15px 15px 0px 0px;
   -moz-border-radius: 15px 15px 0px 0px;
   -webkit-border: 15px 15px 0px 0px;  }
@@ -160,7 +160,7 @@ ul#nav li.current a, ul#nav li:hover a
   background: #FFD700;
   background: -moz-linear-gradient((#0A8F08, #000000));
   background: -o-linear-gradient((#0A8F08, #000000));
-  background: -webkit-linear-gradient(#000000, #0A8F08);
+  background: -webkit-linear-gradient(#00318a, #0362d0);
   text-shadow: none;}
 
 #site_content
@@ -221,9 +221,9 @@ footer
   text-shadow: 1px 1px #000;
   color: #FFF;
   background: #0043A8;
-  background: -moz-linear-gradient(#000000, #0A8F08);
-  background: -o-linear-gradient(#000000, #0A8F08);
-  background: -webkit-linear-gradient(#000000, #0A8F08);
+  background: -moz-linear-gradient(#00318a, #0362d0);
+  background: -o-linear-gradient(#00318a, #0362d0);
+  background: -webkit-linear-gradient(#00318a, #0362d0);
   border-radius: 15px 15px 15px 15px;
   -moz-border-radius: 15px 15px 15px 15px;
   -webkit-border: 15px 15px 15px 15px;
@@ -258,9 +258,9 @@ footer a:hover
   height: 15px;
   padding: 5px 10px 7px 8px;
   background: #0043A8;
-  background: -moz-linear-gradient(#000000, #0A8F08);
-  background: -o-linear-gradient(#000000, #0A8F08);
-  background: -webkit-linear-gradient(#000000, #0A8F08);
+  background: -moz-linear-gradient(#00318a, #0362d0);
+  background: -o-linear-gradient(#00318a, #0362d0);
+  background: -webkit-linear-gradient(#00318a, #0362d0);
   border-radius: 15px 15px 15px 15px;
   -moz-border-radius: 15px 15px 15px 15px;
   -webkit-border: 15px 15px 15px 15px;
@@ -313,9 +313,9 @@ footer a:hover
   padding: 2px 0 3px 0;
   cursor: pointer; 
   background: #0043A8;
-  background: -moz-linear-gradient(#000000, #0A8F08);
-  background: -o-linear-gradient(#000000, #0A8F08);
-  background: -webkit-linear-gradient(#000000, #0A8F08);
+  background: -moz-linear-gradient(#00318a, #0362d0);
+  background: -o-linear-gradient(#00318a, #0362d0);
+  background: -webkit-linear-gradient(#00318a, #0362d0);
   color: #FFF;
   border-radius: 7px 7px 7px 7px;
   -moz-border-radius: 7px 7px 7px 7px;
@@ -411,7 +411,7 @@ ul img {
   background-color: #FFD700;
   background: -moz-linear-gradient((#0A8F08, #000000));
   background: -o-linear-gradient((#0A8F08, #000000));
-  background: -webkit-linear-gradient(#000000, #0A8F08);
+  background: -webkit-linear-gradient(#00318a, #0362d0);
 }
 
 /* Dropdown content (hidden by default) */
@@ -421,7 +421,7 @@ ul img {
   background-color: #FFD700;
   background: -moz-linear-gradient((#0A8F08, #000000));
   background: -o-linear-gradient((#0A8F08, #000000));
-  background: -webkit-linear-gradient(#000000, #0A8F08);
+  background: -webkit-linear-gradient(#00318a, #0362d0);
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -442,7 +442,7 @@ ul img {
   background-color: #FFD700;
   background: -moz-linear-gradient((#0A8F08, #000000));
   background: -o-linear-gradient((#0A8F08, #000000));
-  background: -webkit-linear-gradient(#000000, #0A8F08);
+  background: -webkit-linear-gradient(#00318a, #0362d0);
 }
 
 /* Show the dropdown menu on hover */
